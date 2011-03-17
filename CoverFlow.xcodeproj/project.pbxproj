@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		480E170D1331FCF5001C8C08 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 480E170C1331FCF5001C8C08 /* UIKit.framework */; };
+		480E170F1331FCF5001C8C08 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 480E170E1331FCF5001C8C08 /* Foundation.framework */; };
+		480E17111331FCF5001C8C08 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 480E17101331FCF5001C8C08 /* CoreGraphics.framework */; };
+		480E17171331FCF5001C8C08 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 480E17151331FCF5001C8C08 /* InfoPlist.strings */; };
+		480E171A1331FCF5001C8C08 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 480E17191331FCF5001C8C08 /* main.m */; };
+		480E171D1331FCF5001C8C08 /* CoverFlowAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 480E171C1331FCF5001C8C08 /* CoverFlowAppDelegate.m */; };
+		480E17201331FCF5001C8C08 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 480E171E1331FCF5001C8C08 /* MainWindow.xib */; };
+		480E17231331FCF6001C8C08 /* CoverFlowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 480E17221331FCF6001C8C08 /* CoverFlowViewController.m */; };
+		480E17261331FCF6001C8C08 /* CoverFlowViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 480E17241331FCF6001C8C08 /* CoverFlowViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		480E17081331FCF5001C8C08 /* CoverFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoverFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		480E170C1331FCF5001C8C08 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		480E170E1331FCF5001C8C08 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		480E17101331FCF5001C8C08 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		480E17141331FCF5001C8C08 /* CoverFlow-Info.plist */ = {isa = PBXFileReference; path = "CoverFlow-Info.plist"; sourceTree = "<group>"; };
+		480E17161331FCF5001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		480E17181331FCF5001C8C08 /* CoverFlow-Prefix.pch */ = {isa = PBXFileReference; path = "CoverFlow-Prefix.pch"; sourceTree = "<group>"; };
+		480E17191331FCF5001C8C08 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		480E171B1331FCF5001C8C08 /* CoverFlowAppDelegate.h */ = {isa = PBXFileReference; path = CoverFlowAppDelegate.h; sourceTree = "<group>"; };
+		480E171C1331FCF5001C8C08 /* CoverFlowAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoverFlowAppDelegate.m; sourceTree = "<group>"; };
+		480E171F1331FCF5001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		480E17211331FCF6001C8C08 /* CoverFlowViewController.h */ = {isa = PBXFileReference; path = CoverFlowViewController.h; sourceTree = "<group>"; };
+		480E17221331FCF6001C8C08 /* CoverFlowViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoverFlowViewController.m; sourceTree = "<group>"; };
+		480E17251331FCF6001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CoverFlowViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		480E17051331FCF5001C8C08 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				480E170D1331FCF5001C8C08 /* UIKit.framework in Frameworks */,
+				480E170F1331FCF5001C8C08 /* Foundation.framework in Frameworks */,
+				480E17111331FCF5001C8C08 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		480E16FD1331FCF5001C8C08 = {
+			isa = PBXGroup;
+			children = (
+				480E17121331FCF5001C8C08 /* CoverFlow */,
+				480E170B1331FCF5001C8C08 /* Frameworks */,
+				480E17091331FCF5001C8C08 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		480E17091331FCF5001C8C08 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				480E17081331FCF5001C8C08 /* CoverFlow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		480E170B1331FCF5001C8C08 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				480E170C1331FCF5001C8C08 /* UIKit.framework */,
+				480E170E1331FCF5001C8C08 /* Foundation.framework */,
+				480E17101331FCF5001C8C08 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		480E17121331FCF5001C8C08 /* CoverFlow */ = {
+			isa = PBXGroup;
+			children = (
+				480E171B1331FCF5001C8C08 /* CoverFlowAppDelegate.h */,
+				480E171C1331FCF5001C8C08 /* CoverFlowAppDelegate.m */,
+				480E171E1331FCF5001C8C08 /* MainWindow.xib */,
+				480E17211331FCF6001C8C08 /* CoverFlowViewController.h */,
+				480E17221331FCF6001C8C08 /* CoverFlowViewController.m */,
+				480E17241331FCF6001C8C08 /* CoverFlowViewController.xib */,
+				480E17131331FCF5001C8C08 /* Supporting Files */,
+			);
+			path = CoverFlow;
+			sourceTree = "<group>";
+		};
+		480E17131331FCF5001C8C08 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				480E17141331FCF5001C8C08 /* CoverFlow-Info.plist */,
+				480E17151331FCF5001C8C08 /* InfoPlist.strings */,
+				480E17181331FCF5001C8C08 /* CoverFlow-Prefix.pch */,
+				480E17191331FCF5001C8C08 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		480E17071331FCF5001C8C08 /* CoverFlow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 480E17291331FCF6001C8C08 /* Build configuration list for PBXNativeTarget "CoverFlow" */;
+			buildPhases = (
+				480E17041331FCF5001C8C08 /* Sources */,
+				480E17051331FCF5001C8C08 /* Frameworks */,
+				480E17061331FCF5001C8C08 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CoverFlow;
+			productName = CoverFlow;
+			productReference = 480E17081331FCF5001C8C08 /* CoverFlow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		480E16FF1331FCF5001C8C08 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 480E17021331FCF5001C8C08 /* Build configuration list for PBXProject "CoverFlow" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 480E16FD1331FCF5001C8C08;
+			productRefGroup = 480E17091331FCF5001C8C08 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				480E17071331FCF5001C8C08 /* CoverFlow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		480E17061331FCF5001C8C08 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				480E17171331FCF5001C8C08 /* InfoPlist.strings in Resources */,
+				480E17201331FCF5001C8C08 /* MainWindow.xib in Resources */,
+				480E17261331FCF6001C8C08 /* CoverFlowViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		480E17041331FCF5001C8C08 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				480E171A1331FCF5001C8C08 /* main.m in Sources */,
+				480E171D1331FCF5001C8C08 /* CoverFlowAppDelegate.m in Sources */,
+				480E17231331FCF6001C8C08 /* CoverFlowViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		480E17151331FCF5001C8C08 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				480E17161331FCF5001C8C08 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		480E171E1331FCF5001C8C08 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				480E171F1331FCF5001C8C08 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		480E17241331FCF6001C8C08 /* CoverFlowViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				480E17251331FCF6001C8C08 /* en */,
+			);
+			name = CoverFlowViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		480E17271331FCF6001C8C08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		480E17281331FCF6001C8C08 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Release;
+		};
+		480E172A1331FCF6001C8C08 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CoverFlow/CoverFlow-Prefix.pch";
+				INFOPLIST_FILE = "CoverFlow/CoverFlow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		480E172B1331FCF6001C8C08 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CoverFlow/CoverFlow-Prefix.pch";
+				INFOPLIST_FILE = "CoverFlow/CoverFlow-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		480E17021331FCF5001C8C08 /* Build configuration list for PBXProject "CoverFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				480E17271331FCF6001C8C08 /* Debug */,
+				480E17281331FCF6001C8C08 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		480E17291331FCF6001C8C08 /* Build configuration list for PBXNativeTarget "CoverFlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				480E172A1331FCF6001C8C08 /* Debug */,
+				480E172B1331FCF6001C8C08 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 480E16FF1331FCF5001C8C08 /* Project object */;
+}
