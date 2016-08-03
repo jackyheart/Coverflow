@@ -1,0 +1,662 @@
+TCoverFlow
+v7
+r0
+t322044226.826006
+cCheck dependencies
+cProcessInfoPlistFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/Info.plist" CoverFlow/CoverFlow-Info.plist
+cProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch.gch CoverFlow/CoverFlow-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/main.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowViewController.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow" normal i386
+cGenerateDSYMFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app.dSYM" "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow"
+cCopyStringsFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/InfoPlist.strings" CoverFlow/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib"
+cCpResource build/Debug-iphonesimulator/CoverFlow.app/TapkuLibrary.bundle src/TapkuLibrary.bundle
+cTouch "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlow-Prefix.pch
+c000000004D81C5750000000000000144
+t1300350325
+s324
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.h
+c000000004D81C57500000000000001AB
+t1300350325
+s427
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m
+c000000004D81C5750000000000000523
+t1300350325
+s1315
+i"CoverFlowAppDelegate.h"
+i"CoverFlowViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.h
+c000000004D81C57500000000000000F9
+t1300350325
+s249
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m
+c000000004D81C9B80000000000000537
+t1300351416
+s1335
+i"CoverFlowViewController.h"
+i"TapkuLibrary/TapkuLibrary.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib
+c000000004D81C5760000000000003EE1
+t1300350326
+s16097
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/InfoPlist.strings
+c000000004D81C575000000000000002D
+t1300350325
+s45
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib
+c000000004D81C5750000000000004D0D
+t1300350325
+s19725
+
+N/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m
+c000000004D81C575000000000000015E
+t1300350325
+s350
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlow.LinkFileList
+c000000004D81C9BF000000000000018E
+t1300351423
+s398
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowAppDelegate.o
+t1300351424
+s49304
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowViewController.o
+t1300351424
+s39712
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/main.o
+t1300351424
+s6312
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app
+t1300351425
+s238
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app.dSYM
+t1300351424
+s102
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow
+t1300351424
+s433804
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/Info.plist
+t1300351423
+s841
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/PkgInfo
+t1300351423
+s8
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/TapkuLibrary.bundle
+t1300351425
+s102
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/CoverFlowViewController.nib
+t1300351425
+s764
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/InfoPlist.strings
+t1300351424
+s42
+
+N/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/MainWindow.nib
+t1300351425
+s1127
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary.bundle
+c000000004D7AD3A20000000000000066
+t1299895202
+s102
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.h
+c000000004D7AD3A200000000000005C8
+t1299895202
+s1480
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.h
+c000000004D7AD3A20000000000000511
+t1299895202
+s1297
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.h
+c000000004D7AD3A2000000000000090A
+t1299895202
+s2314
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.h
+c000000004D7AD3A2000000000000054A
+t1299895202
+s1354
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.h
+c000000004D7AD3A20000000000000611
+t1299895202
+s1553
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.h
+c000000004D7AD3A200000000000006B1
+t1299895202
+s1713
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.h
+c000000004D7AD3A20000000000000705
+t1299895202
+s1797
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.h
+c000000004D7AD3A20000000000000857
+t1299895202
+s2135
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"TapDetectingView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.h
+c000000004D7AD3A20000000000000C3D
+t1299895202
+s3133
+i<UIKit/UIKit.h>
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.h
+c000000004D7AD3A200000000000005D4
+t1299895202
+s1492
+i<UIKit/UIKit.h>
+i"TKCalendarDayTimelineView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.h
+c000000004D7AD3A200000000000005EF
+t1299895202
+s1519
+i<UIKit/UIKit.h>
+i"TKCalendarMonthViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.h
+c000000004D7AD3A20000000000000972
+t1299895202
+s2418
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.h
+c000000004D7AD3A20000000000000668
+t1299895202
+s1640
+i<UIKit/UIKit.h>
+i"TKCalendarMonthView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.h
+c000000004D7AD3A20000000000000642
+t1299895202
+s1602
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.h
+c000000004D7AD3A20000000000000C04
+t1299895202
+s3076
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.h
+c000000004D7AD3A20000000000000914
+t1299895202
+s2324
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.h
+c000000004D7AD3A20000000000000544
+t1299895202
+s1348
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.h
+c000000004D7AD3A20000000000000593
+t1299895202
+s1427
+i<UIKit/UIKit.h>
+i"TKGraphView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.h
+c000000004D7AD3A2000000000000099B
+t1299895202
+s2459
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.h
+c000000004D7AD3A200000000000006C5
+t1299895202
+s1733
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.h
+c000000004D7AD3A20000000000000578
+t1299895202
+s1400
+i"ABTableViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.h
+c000000004D7AD3A20000000000000527
+t1299895202
+s1319
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.h
+c000000004D7AD3A2000000000000052C
+t1299895202
+s1324
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.h
+c000000004D7AD3A2000000000000054B
+t1299895202
+s1355
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.h
+c000000004D7AD3A20000000000000535
+t1299895202
+s1333
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.h
+c000000004D7AD3A2000000000000066C
+t1299895202
+s1644
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.h
+c000000004D7AD3A20000000000000608
+t1299895202
+s1544
+i<UIKit/UIKit.h>
+i"TKProgressBarView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.h
+c000000004D7AD3A200000000000005FA
+t1299895202
+s1530
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.h
+c000000004D7AD3A200000000000001E7
+t1299895202
+s487
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.h
+c000000004D7AD3A20000000000000566
+t1299895202
+s1382
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.h
+c000000004D7AD3A2000000000000079F
+t1299895202
+s1951
+i<UIKit/UIKit.h>
+i"TKViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.h
+c000000004D7AD3A20000000000000530
+t1299895202
+s1328
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.h
+c000000004D7AD3A20000000000000567
+t1299895202
+s1383
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.h
+c000000004D7AD3A2000000000000055E
+t1299895202
+s1374
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.h
+c000000004D7AD3A20000000000000DA1
+t1299895202
+s3489
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapkuLibrary.h
+c000000004D7AD3A2000000000000098C
+t1299895202
+s2444
+i"TKGlobal.h"
+i"NSString+TKCategory.h"
+i"NSDate+TKCategory.h"
+i"NSArray+TKCategory.h"
+i"UIView+TKCategory.h"
+i"UIImage+TKCategory.h"
+i"UIImageView+TKCategory.h"
+i"UIScrollview+TKCategory.h"
+i"UINavigationController+TKCategory.h"
+i"UINavigationBar+TKCategory.h"
+i"UIToolbar+TKCategory.h"
+i"UIButton+TKCategory.h"
+i"TKWindow.h"
+i"TKTableViewController.h"
+i"TKEmptyView.h"
+i"TKImageCenter.h"
+i"TKViewController.h"
+i"TKBarButtonItem.h"
+i"TKAppDelegate.h"
+i"TKLabelCell.h"
+i"TKLabelTextViewCell.h"
+i"TKLabelTextFieldCell.h"
+i"TKLabelFieldCell.h"
+i"TKLabelSwitchCell.h"
+i"TKButtonCell.h"
+i"TKTextViewCell.h"
+i"TKSwitchCell.h"
+i"TKIndicatorCell.h"
+i"TKLoadingView.h"
+i"TKAlertCenter.h"
+i"TKProgressBarView.h"
+i"TKProgressAlertView.h"
+i"TKProgressCircleView.h"
+i"TKGraphController.h"
+i"TKGraphView.h"
+i"TKCalendarMonthViewController.h"
+i"TKCalendarMonthTableViewController.h"
+i"TKCalendarMonthView.h"
+i"TKCalendarDayViewController.h"
+i"TKCoverflowView.h"
+i"TKCoverflowCoverView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.h
+c000000004D7AD3A200000000000006F1
+t1299895202
+s1777
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.h
+c000000004D7AD3A2000000000000062A
+t1299895202
+s1578
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.h
+c000000004D7AD3A2000000000000051B
+t1299895202
+s1307
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.h
+c000000004D7AD3A20000000000000510
+t1299895202
+s1296
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.h
+c000000004D7AD3A20000000000000556
+t1299895202
+s1366
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.h
+c000000004D7AD3A200000000000004FD
+t1299895202
+s1277
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.h
+c000000004D7AD3A20000000000000504
+t1299895202
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.h
+c000000004D7AD3A20000000000000727
+t1299895202
+s1831
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a
+c000000004D81C9BF00000000001F01C8
+t1300351423
+s2032072
+
+N/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch.gch
+t1300351424
+s15490256
+
+N/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-dkbfrzzjvsbwnubbuvprecaoxxzx/CoverFlow-Prefix.pch.gch
+t2
+s0
+
+NCoverFlow/CoverFlow-Info.plist
+c000000004D81C575000000000000054D
+t1300350325
+s1357
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322044226#322044226#0(0"0(0#1#0"8614012448#0"0#
+
+CCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322044224.128661
+e322044224.238685
+r1
+xCompileC
+xbuild/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowAppDelegate.o
+x/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m322044224#322044224#0(0"0(0#0#66"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m8618675104#1979"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/include" -Isrc "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowAppDelegate.m" -o "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowAppDelegate.o"0#
+
+CCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowViewController.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322044224.216558
+e322044224.316040
+r1
+xCompileC
+xbuild/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m322044224#322044224#0(0"0(0#0#69"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m8620900128#1985"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/include" -Isrc "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlowViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlowViewController.o"0#
+
+CCompileC build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/main.o "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322044224.127432
+e322044224.216442
+r1
+xCompileC
+xbuild/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/main.o
+x/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m322044224#322044224#0(0"0(0#0#50"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m8618827392#1947"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/include" -Isrc "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/main.m" -o "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib"
+s322044224.674889
+e322044225.113762
+r1
+xCompileXIB
+x/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib
+lSLF07#2@57"CompileXIB CoverFlow/en.lproj/CoverFlowViewController.xib322044224#322044225#0(0"0(0#0#80"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib8619012672#617"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/CoverFlowViewController.nib" "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/CoverFlowViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib"
+s322044224.640325
+e322044225.108830
+r1
+xCompileXIB
+x/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib
+lSLF07#2@44"CompileXIB CoverFlow/en.lproj/MainWindow.xib322044224#322044225#0(0"0(0#0#67"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib8619518976#591"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/MainWindow.nib" "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/InfoPlist.strings" CoverFlow/en.lproj/InfoPlist.strings
+s322044224.639373
+e322044224.674784
+r1
+xCopyStringsFile
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj/InfoPlist.strings
+xCoverFlow/en.lproj/InfoPlist.strings
+lSLF07#2@41"Copy CoverFlow/en.lproj/InfoPlist.strings322044224#322044224#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/en.lproj/InfoPlist.strings8619575616#489"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary CoverFlow/en.lproj/InfoPlist.strings --outdir "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/CoverFlow.app/TapkuLibrary.bundle src/TapkuLibrary.bundle
+s322044225.108937
+e322044225.144128
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CoverFlow.app/TapkuLibrary.bundle
+xsrc/TapkuLibrary.bundle
+lSLF07#2@28"Copy src/TapkuLibrary.bundle322044225#322044225#0(0"0(0#0#57"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary.bundle8612604800#474"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary.bundle" "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app"0#
+
+CGenerateDSYMFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app.dSYM" "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow"
+s322044224.490773
+e322044224.639266
+r1
+xGenerateDSYMFile
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app.dSYM
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/CoverFlow.app.dSYM build/Debug-iphonesimulator/CoverFlow.app/CoverFlow322044224#322044224#0(0"0(0#0#85"/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow8619911872#380"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow" -o "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app.dSYM"0#
+
+CLd "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow" normal i386
+s322044224.316148
+e322044224.490661
+r1
+xLd
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow
+xnormal
+xi386
+lSLF07#2@90"Link /Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow322044224#322044224#0(0"0(0#0#0"8620546720#1046"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" "-F/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" -filelist "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/Objects-normal/i386/CoverFlow.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics "/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a" -framework QuartzCore -framework MapKit -prebind -o "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/CoverFlow"0#
+
+CProcessInfoPlistFile "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/Info.plist" CoverFlow/CoverFlow-Info.plist
+s322044223.266288
+e322044223.269626
+r1
+xProcessInfoPlistFile
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/Info.plist
+xCoverFlow/CoverFlow-Info.plist
+lSLF07#2@38"Process CoverFlow/CoverFlow-Info.plist322044223#322044223#0(0"0(0#0#64"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlow-Info.plist8619685312#486"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoverFlow/CoverFlow-Info.plist -genpkginfo "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app/Info.plist"0#
+
+CProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch.gch CoverFlow/CoverFlow-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322044223.269739
+e322044224.127268
+r1
+xProcessPCH
+x/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch.gch
+xCoverFlow/CoverFlow-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CoverFlow/CoverFlow-Prefix.pch322044223#322044224#0(0"0(0#0#64"/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlow-Prefix.pch8619218880#1840"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/CoverFlow-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/include" -Isrc "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/build/CoverFlow.build/Debug-iphonesimulator/CoverFlow.build/DerivedSources" -c "/Users/jtjoa/iphone dev/CoverFlow/CoverFlow/CoverFlow-Prefix.pch" -o /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-csuzsqbdfrcxeqbtwasbbdxmhxmb/CoverFlow-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoverFlow-Prefix-dkbfrzzjvsbwnubbuvprecaoxxzx/CoverFlow-Prefix.pch.gch CoverFlow/CoverFlow-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app"
+s322044225.144227
+e322044225.148503
+r1
+xTouch
+x/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app
+lSLF07#2@81"Touch /Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app322044225#322044225#0(0"0(0#0#0"8620070752#274"    cd "/Users/jtjoa/iphone dev/CoverFlow"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jtjoa/iphone dev/CoverFlow/build/Debug-iphonesimulator/CoverFlow.app"0#
+

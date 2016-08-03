@@ -1,0 +1,1514 @@
+TTapkuLibrary
+v7
+r0
+t322044223.243111
+cCheck dependencies
+cProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch.pth TapkuLibrary_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGlobal.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImage+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKWindow.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSString+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSDate+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowCoverView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapDetectingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayTimelineView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayEventView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKEmptyView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLoadingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKButtonCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKIndicatorCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/ABTableViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKImageCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressBarView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressAlertView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAlertCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSArray+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIScrollview+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationController+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationBar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIToolbar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKBarButtonItem.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImageView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressCircleView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIButton+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool "/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a" normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.h
+c000000004D7AD3A200000000000005C8
+t1299895202
+s1480
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m
+c000000004D7AD3A20000000000000A83
+t1299895202
+s2691
+i"ABTableViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.h
+c000000004D7AD3A20000000000000511
+t1299895202
+s1297
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m
+c000000004D7AD3A20000000000000571
+t1299895202
+s1393
+i"NSArray+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.h
+c000000004D7AD3A2000000000000090A
+t1299895202
+s2314
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m
+c000000004D7AD3A20000000000002C63
+t1299895202
+s11363
+i"NSDate+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.h
+c000000004D7AD3A2000000000000054A
+t1299895202
+s1354
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m
+c000000004D7AD3A20000000000001217
+t1299895202
+s4631
+i"NSString+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.h
+c000000004D7AD3A20000000000000611
+t1299895202
+s1553
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m
+c000000004D7AD3A20000000000002427
+t1299895202
+s9255
+i"TKAlertCenter.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.h
+c000000004D7AD3A200000000000006B1
+t1299895202
+s1713
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m
+c000000004D7AD3A20000000000000872
+t1299895202
+s2162
+i"TKAppDelegate.h"
+i"TKWindow.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.h
+c000000004D7AD3A20000000000000705
+t1299895202
+s1797
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m
+c000000004D7AD3A20000000000001BF2
+t1299895202
+s7154
+i"TKBarButtonItem.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m
+c000000004D7AD3A20000000000000A63
+t1299895202
+s2659
+i"TKButtonCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.h
+c000000004D7AD3A20000000000000857
+t1299895202
+s2135
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"TapDetectingView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m
+c000000004D7AD3A200000000000018A2
+t1299895202
+s6306
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.h
+c000000004D7AD3A20000000000000C3D
+t1299895202
+s3133
+i<UIKit/UIKit.h>
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m
+c000000004D7AD3A20000000000004D06
+t1299895202
+s19718
+i"TKCalendarDayTimelineView.h"
+i"NSDate+TKCategory.h"
+i"UIImage+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.h
+c000000004D7AD3A200000000000005D4
+t1299895202
+s1492
+i<UIKit/UIKit.h>
+i"TKCalendarDayTimelineView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m
+c000000004D7AD3A20000000000000C52
+t1299895202
+s3154
+i"TKCalendarDayViewController.h"
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.h
+c000000004D7AD3A200000000000005EF
+t1299895202
+s1519
+i<UIKit/UIKit.h>
+i"TKCalendarMonthViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m
+c000000004D7AD3A20000000000000D32
+t1299895202
+s3378
+i"TKCalendarMonthTableViewController.h"
+i"NSDate+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.h
+c000000004D7AD3A20000000000000972
+t1299895202
+s2418
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m
+c000000004D7AD3A20000000000007007
+t1299895202
+s28679
+i"TKCalendarMonthView.h"
+i"NSDate+TKCategory.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.h
+c000000004D7AD3A20000000000000668
+t1299895202
+s1640
+i<UIKit/UIKit.h>
+i"TKCalendarMonthView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m
+c000000004D7AD3A20000000000000922
+t1299895202
+s2338
+i"TKCalendarMonthViewController.h"
+i"TKCalendarMonthView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.h
+c000000004D7AD3A20000000000000642
+t1299895202
+s1602
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m
+c000000004D7AD3A20000000000000C61
+t1299895202
+s3169
+i"TKCoverflowCoverView.h"
+i"UIImage+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.h
+c000000004D7AD3A20000000000000C04
+t1299895202
+s3076
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m
+c000000004D7AD3A200000000000031AE
+t1299895202
+s12718
+i"TKCoverflowView.h"
+i"TKCoverflowCoverView.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.h
+c000000004D7AD3A20000000000000914
+t1299895202
+s2324
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m
+c000000004D7AD3A20000000000001D03
+t1299895202
+s7427
+i"TKEmptyView.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.h
+c000000004D7AD3A20000000000000544
+t1299895202
+s1348
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m
+c000000004D7AD3A2000000000000055C
+t1299895202
+s1372
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.h
+c000000004D7AD3A20000000000000593
+t1299895202
+s1427
+i<UIKit/UIKit.h>
+i"TKGraphView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m
+c000000004D7AD3A20000000000000CBE
+t1299895202
+s3262
+i"TKGraphController.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.h
+c000000004D7AD3A2000000000000099B
+t1299895202
+s2459
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m
+c000000004D7AD3A200000000000042D0
+t1299895202
+s17104
+i"TKGraphView.h"
+i"UIView+TKCategory.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.h
+c000000004D7AD3A200000000000006C5
+t1299895202
+s1733
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m
+c000000004D7AD3A20000000000000D14
+t1299895202
+s3348
+i"TKImageCenter.h"
+i"NSArray+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.h
+c000000004D7AD3A20000000000000578
+t1299895202
+s1400
+i"ABTableViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m
+c000000004D7AD3A20000000000001104
+t1299895202
+s4356
+i"TKIndicatorCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m
+c000000004D7AD3A20000000000000B21
+t1299895202
+s2849
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.h
+c000000004D7AD3A20000000000000527
+t1299895202
+s1319
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m
+c000000004D7AD3A20000000000000953
+t1299895202
+s2387
+i"TKLabelFieldCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.h
+c000000004D7AD3A2000000000000052C
+t1299895202
+s1324
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m
+c000000004D7AD3A20000000000000805
+t1299895202
+s2053
+i"TKLabelSwitchCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.h
+c000000004D7AD3A2000000000000054B
+t1299895202
+s1355
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m
+c000000004D7AD3A20000000000000CD0
+t1299895202
+s3280
+i"TKLabelTextFieldCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.h
+c000000004D7AD3A20000000000000535
+t1299895202
+s1333
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m
+c000000004D7AD3A200000000000009C1
+t1299895202
+s2497
+i"TKLabelTextViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.h
+c000000004D7AD3A2000000000000066C
+t1299895202
+s1644
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m
+c000000004D7AD3A2000000000000156F
+t1299895202
+s5487
+i"TKLoadingView.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.h
+c000000004D7AD3A20000000000000608
+t1299895202
+s1544
+i<UIKit/UIKit.h>
+i"TKProgressBarView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m
+c000000004D7AD3A20000000000000A84
+t1299895202
+s2692
+i"TKProgressAlertView.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.h
+c000000004D7AD3A200000000000005FA
+t1299895202
+s1530
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m
+c000000004D7AD3A20000000000000EF3
+t1299895202
+s3827
+i"TKProgressBarView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.h
+c000000004D7AD3A200000000000001E7
+t1299895202
+s487
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m
+c000000004D7AD3A20000000000000B7E
+t1299895202
+s2942
+i"TKProgressCircleView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.h
+c000000004D7AD3A20000000000000566
+t1299895202
+s1382
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m
+c000000004D7AD3A20000000000000A09
+t1299895202
+s2569
+i"TKSwitchCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.h
+c000000004D7AD3A2000000000000079F
+t1299895202
+s1951
+i<UIKit/UIKit.h>
+i"TKViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m
+c000000004D7AD3A200000000000011E5
+t1299895202
+s4581
+i"TKTableViewController.h"
+i"TKEmptyView.h"
+i"UIScrollview+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.h
+c000000004D7AD3A20000000000000530
+t1299895202
+s1328
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m
+c000000004D7AD3A2000000000000093F
+t1299895202
+s2367
+i"TKTextViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.h
+c000000004D7AD3A20000000000000567
+t1299895202
+s1383
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m
+c000000004D7AD3A20000000000000582
+t1299895202
+s1410
+i"TKViewController.h"
+i"TKBarButtonItem.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.h
+c000000004D7AD3A2000000000000055E
+t1299895202
+s1374
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m
+c000000004D7AD3A200000000000006D5
+t1299895202
+s1749
+i"TKWindow.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.h
+c000000004D7AD3A20000000000000DA1
+t1299895202
+s3489
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m
+c000000004D7AD3A20000000000001BB4
+t1299895202
+s7092
+i"TapDetectingView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.h
+c000000004D7AD3A200000000000006F1
+t1299895202
+s1777
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m
+c000000004D7AD3A20000000000000AC6
+t1299895202
+s2758
+i"UIButton+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.h
+c000000004D7AD3A2000000000000062A
+t1299895202
+s1578
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m
+c000000004D7AD3A20000000000000E31
+t1299895202
+s3633
+i"UIImage+TKCategory.h"
+i"UIView+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.h
+c000000004D7AD3A2000000000000051B
+t1299895202
+s1307
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m
+c000000004D7AD3A20000000000000588
+t1299895202
+s1416
+i"UIImageView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.h
+c000000004D7AD3A20000000000000510
+t1299895202
+s1296
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m
+c000000004D7AD3A20000000000000908
+t1299895202
+s2312
+i"UINavigationBar+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.h
+c000000004D7AD3A20000000000000556
+t1299895202
+s1366
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m
+c000000004D7AD3A2000000000000082E
+t1299895202
+s2094
+i"UINavigationController+TKCategory.h"
+i"TKViewController.h"
+i"TKBarButtonItem.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.h
+c000000004D7AD3A200000000000004FD
+t1299895202
+s1277
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m
+c000000004D7AD3A2000000000000053A
+t1299895202
+s1338
+i"UIScrollview+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.h
+c000000004D7AD3A20000000000000504
+t1299895202
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m
+c000000004D7AD3A20000000000000781
+t1299895202
+s1921
+i"UIToolbar+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.h
+c000000004D7AD3A20000000000000727
+t1299895202
+s1831
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m
+c000000004D7AD3A200000000000014B3
+t1299895202
+s5299
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary_Prefix.pch
+c000000004D7AD3A20000000000000186
+t1299895202
+s390
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a
+t1300351423
+s2032072
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/ABTableViewCell.o
+t1300351422
+s39988
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSArray+TKCategory.o
+t1300351422
+s3980
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSDate+TKCategory.o
+t1300351421
+s37464
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSString+TKCategory.o
+t1300351420
+s15848
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAlertCenter.o
+t1300351422
+s65672
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAppDelegate.o
+t1300351423
+s46872
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKBarButtonItem.o
+t1300351423
+s55388
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKButtonCell.o
+t1300351422
+s40160
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayEventView.o
+t1300351421
+s58220
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayTimelineView.o
+t1300351421
+s97568
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayViewController.o
+t1300351421
+s44160
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthTableViewController.o
+t1300351421
+s52260
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthView.o
+t1300351422
+s132720
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthViewController.o
+t1300351421
+s43680
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowCoverView.o
+t1300351421
+s44616
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowView.o
+t1300351421
+s93120
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKEmptyView.o
+t1300351421
+s59816
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGlobal.o
+t1300351420
+s3840
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphController.o
+t1300351421
+s43928
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphView.o
+t1300351421
+s109184
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKImageCenter.o
+t1300351422
+s20028
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKIndicatorCell.o
+t1300351422
+s45248
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelCell.o
+t1300351422
+s40824
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelFieldCell.o
+t1300351422
+s39616
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelSwitchCell.o
+t1300351422
+s37940
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextFieldCell.o
+t1300351422
+s45544
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextViewCell.o
+t1300351422
+s41164
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLoadingView.o
+t1300351421
+s50624
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressAlertView.o
+t1300351422
+s47396
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressBarView.o
+t1300351422
+s42336
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressCircleView.o
+t1300351423
+s43960
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKSwitchCell.o
+t1300351421
+s41492
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTableViewController.o
+t1300351422
+s60656
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTextViewCell.o
+t1300351421
+s40292
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKViewController.o
+t1300351422
+s34252
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKWindow.o
+t1300351420
+s37012
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapDetectingView.o
+t1300351421
+s48288
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapkuLibrary.LinkFileList
+c000000004D81C9BC0000000000001978
+t1300351420
+s6520
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIButton+TKCategory.o
+t1300351423
+s37352
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImage+TKCategory.o
+t1300351420
+s12816
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImageView+TKCategory.o
+t1300351423
+s3768
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationBar+TKCategory.o
+t1300351422
+s35012
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationController+TKCategory.o
+t1300351422
+s35752
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIScrollview+TKCategory.o
+t1300351422
+s32416
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIToolbar+TKCategory.o
+t1300351422
+s35084
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIView+TKCategory.o
+t1300351420
+s16820
+
+N/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch.pth
+t1300351420
+s2875000
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322044220#322044220#0(0"0(0#1#0"8620943840#0"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/ABTableViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.208352
+e322044222.290753
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/ABTableViewCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m322044222#322044222#0(0"0(0#0#68"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m8619055040#2095"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/ABTableViewCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSArray+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.611528
+e322044222.647834
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSArray+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@79"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m322044222#322044222#0(0"0(0#0#71"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m8620103392#2101"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSArray+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSDate+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.910766
+e322044221.011819
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSDate+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m322044220#322044221#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m8619541504#2099"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSDate+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSString+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.857816
+e322044220.933559
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSString+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@80"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m322044220#322044220#0(0"0(0#0#72"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m8620072032#2103"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/NSString+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAlertCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.474233
+e322044222.611410
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAlertCenter.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m322044222#322044222#0(0"0(0#0#66"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m8620980768#2091"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAlertCenter.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044223.109767
+e322044223.196614
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAppDelegate.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m322044223#322044223#0(0"0(0#0#66"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m8619350048#2091"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKAppDelegate.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKBarButtonItem.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.904210
+e322044223.051843
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKBarButtonItem.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m322044222#322044223#0(0"0(0#0#68"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m8618664096#2095"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKBarButtonItem.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKButtonCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.109544
+e322044222.201405
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKButtonCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@73"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m322044222#322044222#0(0"0(0#0#65"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m8619614112#2089"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKButtonCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayEventView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.340160
+e322044221.451613
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayEventView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@83"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m322044221#322044221#0(0"0(0#0#75"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m8619924096#2109"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayEventView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayTimelineView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.326193
+e322044221.532505
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayTimelineView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@86"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m322044221#322044221#0(0"0(0#0#78"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m8620534592#2115"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayTimelineView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.234710
+e322044221.326081
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@88"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m322044221#322044221#0(0"0(0#0#80"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m8621088864#2119"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarDayViewController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.124206
+e322044221.214061
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthTableViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@95"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m322044221#322044221#0(0"0(0#0#87"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m8611211136#2133"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthTableViewController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.391980
+e322044222.704173
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@80"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m322044222#322044222#0(0"0(0#0#72"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m8619243296#2103"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.032764
+e322044221.124086
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@90"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m322044221#322044221#0(0"0(0#0#82"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m8615611104#2123"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCalendarMonthViewController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowCoverView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.933679
+e322044221.031298
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowCoverView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m322044220#322044221#0(0"0(0#0#73"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m8619207520#2105"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowCoverView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.011935
+e322044221.234597
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m322044221#322044221#0(0"0(0#0#68"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m8618893824#2095"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKCoverflowView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKEmptyView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.660906
+e322044221.818790
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKEmptyView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@72"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m322044221#322044221#0(0"0(0#0#64"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m8621102528#2087"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKEmptyView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGlobal.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.746010
+e322044220.796013
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGlobal.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@69"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m322044220#322044220#0(0"0(0#0#61"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m8619846656#2081"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGlobal.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.532629
+e322044221.660797
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m322044221#322044221#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m8619359008#2099"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.451728
+e322044221.705192
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@72"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m322044221#322044221#0(0"0(0#0#64"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m8619680320#2087"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKGraphView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKImageCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.290873
+e322044222.366449
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKImageCenter.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m322044222#322044222#0(0"0(0#0#66"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m8618599744#2091"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKImageCenter.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKIndicatorCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.201511
+e322044222.294730
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKIndicatorCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@76"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m322044222#322044222#0(0"0(0#0#68"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m8612397504#2095"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKIndicatorCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.106278
+e322044222.208238
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@72"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m322044222#322044222#0(0"0(0#0#64"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m8619740576#2087"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.026839
+e322044222.109438
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelFieldCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@77"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m322044222#322044222#0(0"0(0#0#69"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m8620065952#2097"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelFieldCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.021722
+e322044222.106154
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelSwitchCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m322044222#322044222#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m8620944224#2099"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelSwitchCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.927591
+e322044222.026727
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextFieldCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m322044221#322044222#0(0"0(0#0#73"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m8619547072#2105"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextFieldCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.911879
+e322044222.021527
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextViewCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@80"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m322044221#322044222#0(0"0(0#0#72"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m8619728704#2103"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLabelTextViewCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLoadingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.705307
+e322044221.824241
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLoadingView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@74"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m322044221#322044221#0(0"0(0#0#66"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m8620261792#2091"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKLoadingView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressAlertView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.366562
+e322044222.474114
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressAlertView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@80"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m322044222#322044222#0(0"0(0#0#72"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m8595040512#2103"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressAlertView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressBarView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.294842
+e322044222.391860
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressBarView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m322044222#322044222#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m8614238112#2099"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressBarView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressCircleView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044223.015706
+e322044223.109662
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressCircleView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m322044223#322044223#0(0"0(0#0#73"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m8619742624#2105"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKProgressCircleView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.824357
+e322044221.927469
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKSwitchCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@73"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m322044221#322044221#0(0"0(0#0#65"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m8619415264#2089"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKSwitchCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.704296
+e322044222.823961
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTableViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@82"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m322044222#322044222#0(0"0(0#0#74"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m8619462400#2107"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTableViewController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.818903
+e322044221.911771
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTextViewCell.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@75"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m322044221#322044221#0(0"0(0#0#67"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m8620598112#2093"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKTextViewCell.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.719809
+e322044222.808423
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKViewController.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@77"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m322044222#322044222#0(0"0(0#0#69"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m8618992800#2097"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKViewController.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKWindow.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.830191
+e322044220.910647
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKWindow.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@69"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m322044220#322044220#0(0"0(0#0#61"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m8620906368#2081"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TKWindow.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapDetectingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044221.214176
+e322044221.340048
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapDetectingView.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@77"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m322044221#322044221#0(0"0(0#0#69"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m8594834880#2097"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapDetectingView.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIButton+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044223.051957
+e322044223.156718
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIButton+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@80"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m322044223#322044223#0(0"0(0#0#72"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m8619594048#2103"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIButton+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImage+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.796127
+e322044220.857692
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImage+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@79"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m322044220#322044220#0(0"0(0#0#71"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m8621095488#2101"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImage+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImageView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.976681
+e322044223.015590
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImageView+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@83"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m322044222#322044223#0(0"0(0#0#75"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m8620179168#2109"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIImageView+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationBar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.824078
+e322044222.904095
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationBar+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@87"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m322044222#322044222#0(0"0(0#0#79"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m8609134400#2117"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationBar+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationController+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.808547
+e322044222.884541
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationController+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@94"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m322044222#322044222#0(0"0(0#0#86"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m8614488800#2131"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UINavigationController+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIScrollview+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.647952
+e322044222.719660
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIScrollview+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@84"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m322044222#322044222#0(0"0(0#0#76"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m8619740256#2111"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIScrollview+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIToolbar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044222.884657
+e322044222.976565
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIToolbar+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@81"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m322044222#322044222#0(0"0(0#0#73"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m8618839328#2105"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIToolbar+TKCategory.o"0#
+
+CCompileC build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.747516
+e322044220.830071
+r1
+xCompileC
+xbuild/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIView+TKCategory.o
+x/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@78"Compile /Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m322044220#322044220#0(0"0(0#0#70"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m8619569952#2099"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -include /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m" -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/UIView+TKCategory.o"0#
+
+CLibtool "/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a" normal i386
+s322044223.196728
+e322044223.243053
+r1
+xLibtool
+x/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@65"Libtool build/Debug-iphonesimulator/libTapkuLibrary.a normal i386322044223#322044223#0(251"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8619080640#868"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" -filelist "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/Objects-normal/i386/TapkuLibrary.LinkFileList" -all_load -ObjC -framework Foundation -framework SystemConfiguration -framework CoreGraphics -framework UIKit -framework QuartzCore -o "/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/libTapkuLibrary.a"0#
+
+CProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch.pth TapkuLibrary_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s322044220.481309
+e322044220.745860
+r1
+xProcessPCH
+x/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch.pth
+xTapkuLibrary_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@34"Precompile TapkuLibrary_Prefix.pch322044220#322044220#0(0"0(0#0#61"/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary_Prefix.pch8620883968#1946"    cd "/Users/jtjoa/iphone dev/CoverFlow/src"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-generated-files.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-own-target-headers.hmap" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-all-target-headers.hmap" -iquote "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/TapkuLibrary-project-headers.hmap" "-F/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphonesimulator/include" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources/i386" "-I/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphonesimulator/TapkuLibrary.build/DerivedSources" -c "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary_Prefix.pch" -o /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fykfutkuontyavhfbzaqcwqauabf/TapkuLibrary_Prefix.pch.pth0#
+

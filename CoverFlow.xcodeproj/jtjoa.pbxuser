@@ -1,0 +1,163 @@
+// !$*UTF8*$!
+{
+	480E16FF1331FCF5001C8C08 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 489A4B721331FD1100C7AC25 /* CoverFlow */;
+		activeTarget = 480E17071331FCF5001C8C08 /* CoverFlow */;
+		addToTargets = (
+			480E17071331FCF5001C8C08 /* CoverFlow */,
+		);
+		codeSenseManager = 489A4B821331FD1300C7AC25 /* Code sense */;
+		executables = (
+			489A4B721331FD1100C7AC25 /* CoverFlow */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					762,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					722,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322043153;
+			PBXWorkspaceStateSaveDate = 322043153;
+		};
+		perUserProjectItems = {
+			489A4BBF1332015100C7AC25 /* PBXTextBookmark */ = 489A4BBF1332015100C7AC25 /* PBXTextBookmark */;
+			489A4BC01332015100C7AC25 /* PBXTextBookmark */ = 489A4BC01332015100C7AC25 /* PBXTextBookmark */;
+			489A4BC91332015100C7AC25 /* PBXTextBookmark */ = 489A4BC91332015100C7AC25 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 489A4B811331FD1300C7AC25 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	480E17071331FCF5001C8C08 /* CoverFlow */ = {
+		activeExec = 0;
+		executables = (
+			489A4B721331FD1100C7AC25 /* CoverFlow */,
+		);
+	};
+	480E17211331FCF6001C8C08 /* CoverFlowViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 558}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	480E17221331FCF6001C8C08 /* CoverFlowViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 845}}";
+			sepNavSelRange = "{566, 0}";
+			sepNavVisRange = "{0, 876}";
+		};
+	};
+	489A4B721331FD1100C7AC25 /* CoverFlow */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CoverFlow;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	489A4B811331FD1300C7AC25 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	489A4B821331FD1300C7AC25 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	489A4BBF1332015100C7AC25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 480E17211331FCF6001C8C08 /* CoverFlowViewController.h */;
+		name = "CoverFlowViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	489A4BC01332015100C7AC25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 480E17221331FCF6001C8C08 /* CoverFlowViewController.m */;
+		name = "CoverFlowViewController.m: 15";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 0;
+	};
+	489A4BC91332015100C7AC25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 480E17221331FCF6001C8C08 /* CoverFlowViewController.m */;
+		name = "CoverFlowViewController.m: 29";
+		rLen = 0;
+		rLoc = 566;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 0;
+	};
+}

@@ -16,23 +16,75 @@
 		480E17201331FCF5001C8C08 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 480E171E1331FCF5001C8C08 /* MainWindow.xib */; };
 		480E17231331FCF6001C8C08 /* CoverFlowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 480E17221331FCF6001C8C08 /* CoverFlowViewController.m */; };
 		480E17261331FCF6001C8C08 /* CoverFlowViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 480E17241331FCF6001C8C08 /* CoverFlowViewController.xib */; };
+		489A4B941331FF6700C7AC25 /* TapkuLibrary.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 489A4B931331FF6700C7AC25 /* TapkuLibrary.bundle */; };
+		489A4BA61331FFB500C7AC25 /* libTapkuLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 489A4BA21331FFA900C7AC25 /* libTapkuLibrary.a */; };
+		489A4BAA1331FFDF00C7AC25 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 489A4BA91331FFDF00C7AC25 /* QuartzCore.framework */; };
+		489A4BAE1331FFF500C7AC25 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 489A4BAD1331FFF500C7AC25 /* MapKit.framework */; };
+		48DF9F82133203F900478D5D /* ipadcover_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F79133203F900478D5D /* ipadcover_1.jpg */; };
+		48DF9F83133203F900478D5D /* ipadcover_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7A133203F900478D5D /* ipadcover_2.jpg */; };
+		48DF9F84133203F900478D5D /* ipadcover_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7B133203F900478D5D /* ipadcover_3.jpg */; };
+		48DF9F85133203F900478D5D /* ipadcover_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7C133203F900478D5D /* ipadcover_4.jpg */; };
+		48DF9F86133203F900478D5D /* ipadcover_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7D133203F900478D5D /* ipadcover_5.jpg */; };
+		48DF9F87133203F900478D5D /* ipadcover_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7E133203F900478D5D /* ipadcover_6.jpg */; };
+		48DF9F88133203F900478D5D /* ipadcover_7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F7F133203F900478D5D /* ipadcover_7.jpg */; };
+		48DF9F89133203F900478D5D /* ipadcover_8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F80133203F900478D5D /* ipadcover_8.jpg */; };
+		48DF9F8A133203F900478D5D /* ipadcover_9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F81133203F900478D5D /* ipadcover_9.jpg */; };
+		48DF9F9013320F5400478D5D /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 48DF9F8F13320F5400478D5D /* Icon.png */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		489A4BA11331FFA900C7AC25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D2AAC07E0554694100DB518D;
+			remoteInfo = TapkuLibrary;
+		};
+		489A4BA31331FFA900C7AC25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 3B6EDD521154791900E454DA;
+			remoteInfo = TapkuLibraryExtra;
+		};
+		489A4BA71331FFC200C7AC25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
+			remoteInfo = TapkuLibrary;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		480E17081331FCF5001C8C08 /* CoverFlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoverFlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		480E170C1331FCF5001C8C08 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		480E170E1331FCF5001C8C08 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		480E17101331FCF5001C8C08 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		480E17141331FCF5001C8C08 /* CoverFlow-Info.plist */ = {isa = PBXFileReference; path = "CoverFlow-Info.plist"; sourceTree = "<group>"; };
+		480E17141331FCF5001C8C08 /* CoverFlow-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CoverFlow-Info.plist"; sourceTree = "<group>"; };
 		480E17161331FCF5001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		480E17181331FCF5001C8C08 /* CoverFlow-Prefix.pch */ = {isa = PBXFileReference; path = "CoverFlow-Prefix.pch"; sourceTree = "<group>"; };
+		480E17181331FCF5001C8C08 /* CoverFlow-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CoverFlow-Prefix.pch"; sourceTree = "<group>"; };
 		480E17191331FCF5001C8C08 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		480E171B1331FCF5001C8C08 /* CoverFlowAppDelegate.h */ = {isa = PBXFileReference; path = CoverFlowAppDelegate.h; sourceTree = "<group>"; };
+		480E171B1331FCF5001C8C08 /* CoverFlowAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoverFlowAppDelegate.h; sourceTree = "<group>"; };
 		480E171C1331FCF5001C8C08 /* CoverFlowAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoverFlowAppDelegate.m; sourceTree = "<group>"; };
 		480E171F1331FCF5001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		480E17211331FCF6001C8C08 /* CoverFlowViewController.h */ = {isa = PBXFileReference; path = CoverFlowViewController.h; sourceTree = "<group>"; };
+		480E17211331FCF6001C8C08 /* CoverFlowViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoverFlowViewController.h; sourceTree = "<group>"; };
 		480E17221331FCF6001C8C08 /* CoverFlowViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoverFlowViewController.m; sourceTree = "<group>"; };
 		480E17251331FCF6001C8C08 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CoverFlowViewController.xib; sourceTree = "<group>"; };
+		489A4B931331FF6700C7AC25 /* TapkuLibrary.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TapkuLibrary.bundle; path = src/TapkuLibrary.bundle; sourceTree = SOURCE_ROOT; };
+		489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = TapkuLibrary.xcodeproj; path = src/TapkuLibrary.xcodeproj; sourceTree = SOURCE_ROOT; };
+		489A4BA91331FFDF00C7AC25 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		489A4BAD1331FFF500C7AC25 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		48DF9F79133203F900478D5D /* ipadcover_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_1.jpg; sourceTree = "<group>"; };
+		48DF9F7A133203F900478D5D /* ipadcover_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_2.jpg; sourceTree = "<group>"; };
+		48DF9F7B133203F900478D5D /* ipadcover_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_3.jpg; sourceTree = "<group>"; };
+		48DF9F7C133203F900478D5D /* ipadcover_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_4.jpg; sourceTree = "<group>"; };
+		48DF9F7D133203F900478D5D /* ipadcover_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_5.jpg; sourceTree = "<group>"; };
+		48DF9F7E133203F900478D5D /* ipadcover_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_6.jpg; sourceTree = "<group>"; };
+		48DF9F7F133203F900478D5D /* ipadcover_7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_7.jpg; sourceTree = "<group>"; };
+		48DF9F80133203F900478D5D /* ipadcover_8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_8.jpg; sourceTree = "<group>"; };
+		48DF9F81133203F900478D5D /* ipadcover_9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ipadcover_9.jpg; sourceTree = "<group>"; };
+		48DF9F8F13320F5400478D5D /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +95,9 @@
 				480E170D1331FCF5001C8C08 /* UIKit.framework in Frameworks */,
 				480E170F1331FCF5001C8C08 /* Foundation.framework in Frameworks */,
 				480E17111331FCF5001C8C08 /* CoreGraphics.framework in Frameworks */,
+				489A4BA61331FFB500C7AC25 /* libTapkuLibrary.a in Frameworks */,
+				489A4BAA1331FFDF00C7AC25 /* QuartzCore.framework in Frameworks */,
+				489A4BAE1331FFF500C7AC25 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,9 +124,13 @@
 		480E170B1331FCF5001C8C08 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */,
+				489A4B931331FF6700C7AC25 /* TapkuLibrary.bundle */,
 				480E170C1331FCF5001C8C08 /* UIKit.framework */,
 				480E170E1331FCF5001C8C08 /* Foundation.framework */,
 				480E17101331FCF5001C8C08 /* CoreGraphics.framework */,
+				489A4BA91331FFDF00C7AC25 /* QuartzCore.framework */,
+				489A4BAD1331FFF500C7AC25 /* MapKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -79,6 +138,7 @@
 		480E17121331FCF5001C8C08 /* CoverFlow */ = {
 			isa = PBXGroup;
 			children = (
+				48DF9F78133203F900478D5D /* images */,
 				480E171B1331FCF5001C8C08 /* CoverFlowAppDelegate.h */,
 				480E171C1331FCF5001C8C08 /* CoverFlowAppDelegate.m */,
 				480E171E1331FCF5001C8C08 /* MainWindow.xib */,
@@ -101,6 +161,32 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		489A4B9D1331FFA900C7AC25 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				489A4BA21331FFA900C7AC25 /* libTapkuLibrary.a */,
+				489A4BA41331FFA900C7AC25 /* libTapkuLibraryExtra.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		48DF9F78133203F900478D5D /* images */ = {
+			isa = PBXGroup;
+			children = (
+				48DF9F8F13320F5400478D5D /* Icon.png */,
+				48DF9F79133203F900478D5D /* ipadcover_1.jpg */,
+				48DF9F7A133203F900478D5D /* ipadcover_2.jpg */,
+				48DF9F7B133203F900478D5D /* ipadcover_3.jpg */,
+				48DF9F7C133203F900478D5D /* ipadcover_4.jpg */,
+				48DF9F7D133203F900478D5D /* ipadcover_5.jpg */,
+				48DF9F7E133203F900478D5D /* ipadcover_6.jpg */,
+				48DF9F7F133203F900478D5D /* ipadcover_7.jpg */,
+				48DF9F80133203F900478D5D /* ipadcover_8.jpg */,
+				48DF9F81133203F900478D5D /* ipadcover_9.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -115,6 +201,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				489A4BA81331FFC200C7AC25 /* PBXTargetDependency */,
 			);
 			name = CoverFlow;
 			productName = CoverFlow;
@@ -126,6 +213,9 @@
 /* Begin PBXProject section */
 		480E16FF1331FCF5001C8C08 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+			};
 			buildConfigurationList = 480E17021331FCF5001C8C08 /* Build configuration list for PBXProject "CoverFlow" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -136,12 +226,35 @@
 			mainGroup = 480E16FD1331FCF5001C8C08;
 			productRefGroup = 480E17091331FCF5001C8C08 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 489A4B9D1331FFA900C7AC25 /* Products */;
+					ProjectRef = 489A4B971331FFA900C7AC25 /* TapkuLibrary.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				480E17071331FCF5001C8C08 /* CoverFlow */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		489A4BA21331FFA900C7AC25 /* libTapkuLibrary.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libTapkuLibrary.a;
+			remoteRef = 489A4BA11331FFA900C7AC25 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		489A4BA41331FFA900C7AC25 /* libTapkuLibraryExtra.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libTapkuLibraryExtra.a;
+			remoteRef = 489A4BA31331FFA900C7AC25 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		480E17061331FCF5001C8C08 /* Resources */ = {
@@ -151,6 +264,17 @@
 				480E17171331FCF5001C8C08 /* InfoPlist.strings in Resources */,
 				480E17201331FCF5001C8C08 /* MainWindow.xib in Resources */,
 				480E17261331FCF6001C8C08 /* CoverFlowViewController.xib in Resources */,
+				489A4B941331FF6700C7AC25 /* TapkuLibrary.bundle in Resources */,
+				48DF9F82133203F900478D5D /* ipadcover_1.jpg in Resources */,
+				48DF9F83133203F900478D5D /* ipadcover_2.jpg in Resources */,
+				48DF9F84133203F900478D5D /* ipadcover_3.jpg in Resources */,
+				48DF9F85133203F900478D5D /* ipadcover_4.jpg in Resources */,
+				48DF9F86133203F900478D5D /* ipadcover_5.jpg in Resources */,
+				48DF9F87133203F900478D5D /* ipadcover_6.jpg in Resources */,
+				48DF9F88133203F900478D5D /* ipadcover_7.jpg in Resources */,
+				48DF9F89133203F900478D5D /* ipadcover_8.jpg in Resources */,
+				48DF9F8A133203F900478D5D /* ipadcover_9.jpg in Resources */,
+				48DF9F9013320F5400478D5D /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +292,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		489A4BA81331FFC200C7AC25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TapkuLibrary;
+			targetProxy = 489A4BA71331FFC200C7AC25 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		480E17151331FCF5001C8C08 /* InfoPlist.strings */ = {
@@ -200,14 +332,15 @@
 		480E17271331FCF6001C8C08 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
 			};
@@ -216,7 +349,6 @@
 		480E17281331FCF6001C8C08 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_UNIVERSAL_IPHONE_OS)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -236,8 +368,15 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CoverFlow/CoverFlow-Prefix.pch";
+				HEADER_SEARCH_PATHS = src/;
 				INFOPLIST_FILE = "CoverFlow/CoverFlow-Info.plist";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bluesingapore.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -249,8 +388,15 @@
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CoverFlow/CoverFlow-Prefix.pch";
+				HEADER_SEARCH_PATHS = src/;
 				INFOPLIST_FILE = "CoverFlow/CoverFlow-Info.plist";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bluesingapore.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -275,6 +421,7 @@
 				480E172B1331FCF6001C8C08 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

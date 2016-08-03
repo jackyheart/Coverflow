@@ -1,0 +1,1333 @@
+TTapkuLibrary
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.h
+c000000004D7AD3A200000000000005C8
+t1299895202
+s1480
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m
+c000000004D7AD3A20000000000000A83
+t1299895202
+s2691
+i"ABTableViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.h
+c000000004D7AD3A20000000000000511
+t1299895202
+s1297
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m
+c000000004D7AD3A20000000000000571
+t1299895202
+s1393
+i"NSArray+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.h
+c000000004D7AD3A2000000000000090A
+t1299895202
+s2314
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m
+c000000004D7AD3A20000000000002C63
+t1299895202
+s11363
+i"NSDate+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.h
+c000000004D7AD3A2000000000000054A
+t1299895202
+s1354
+i<Foundation/Foundation.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m
+c000000004D7AD3A20000000000001217
+t1299895202
+s4631
+i"NSString+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.h
+c000000004D7AD3A20000000000000611
+t1299895202
+s1553
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m
+c000000004D7AD3A20000000000002427
+t1299895202
+s9255
+i"TKAlertCenter.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.h
+c000000004D7AD3A200000000000006B1
+t1299895202
+s1713
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m
+c000000004D7AD3A20000000000000872
+t1299895202
+s2162
+i"TKAppDelegate.h"
+i"TKWindow.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.h
+c000000004D7AD3A20000000000000705
+t1299895202
+s1797
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m
+c000000004D7AD3A20000000000001BF2
+t1299895202
+s7154
+i"TKBarButtonItem.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m
+c000000004D7AD3A20000000000000A63
+t1299895202
+s2659
+i"TKButtonCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.h
+c000000004D7AD3A20000000000000857
+t1299895202
+s2135
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"TapDetectingView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m
+c000000004D7AD3A200000000000018A2
+t1299895202
+s6306
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.h
+c000000004D7AD3A20000000000000C3D
+t1299895202
+s3133
+i<UIKit/UIKit.h>
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m
+c000000004D7AD3A20000000000004D06
+t1299895202
+s19718
+i"TKCalendarDayTimelineView.h"
+i"NSDate+TKCategory.h"
+i"UIImage+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.h
+c000000004D7AD3A200000000000005D4
+t1299895202
+s1492
+i<UIKit/UIKit.h>
+i"TKCalendarDayTimelineView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m
+c000000004D7AD3A20000000000000C52
+t1299895202
+s3154
+i"TKCalendarDayViewController.h"
+i"TKCalendarDayEventView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.h
+c000000004D7AD3A200000000000005EF
+t1299895202
+s1519
+i<UIKit/UIKit.h>
+i"TKCalendarMonthViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m
+c000000004D7AD3A20000000000000D32
+t1299895202
+s3378
+i"TKCalendarMonthTableViewController.h"
+i"NSDate+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.h
+c000000004D7AD3A20000000000000972
+t1299895202
+s2418
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m
+c000000004D7AD3A20000000000007007
+t1299895202
+s28679
+i"TKCalendarMonthView.h"
+i"NSDate+TKCategory.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.h
+c000000004D7AD3A20000000000000668
+t1299895202
+s1640
+i<UIKit/UIKit.h>
+i"TKCalendarMonthView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m
+c000000004D7AD3A20000000000000922
+t1299895202
+s2338
+i"TKCalendarMonthViewController.h"
+i"TKCalendarMonthView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.h
+c000000004D7AD3A20000000000000642
+t1299895202
+s1602
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m
+c000000004D7AD3A20000000000000C61
+t1299895202
+s3169
+i"TKCoverflowCoverView.h"
+i"UIImage+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.h
+c000000004D7AD3A20000000000000C04
+t1299895202
+s3076
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m
+c000000004D7AD3A200000000000031AE
+t1299895202
+s12718
+i"TKCoverflowView.h"
+i"TKCoverflowCoverView.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.h
+c000000004D7AD3A20000000000000914
+t1299895202
+s2324
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m
+c000000004D7AD3A20000000000001D03
+t1299895202
+s7427
+i"TKEmptyView.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.h
+c000000004D7AD3A20000000000000544
+t1299895202
+s1348
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m
+c000000004D7AD3A2000000000000055C
+t1299895202
+s1372
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.h
+c000000004D7AD3A20000000000000593
+t1299895202
+s1427
+i<UIKit/UIKit.h>
+i"TKGraphView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m
+c000000004D7AD3A20000000000000CBE
+t1299895202
+s3262
+i"TKGraphController.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.h
+c000000004D7AD3A2000000000000099B
+t1299895202
+s2459
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m
+c000000004D7AD3A200000000000042D0
+t1299895202
+s17104
+i"TKGraphView.h"
+i"UIView+TKCategory.h"
+i"TKGlobal.h"
+i"UIImage+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.h
+c000000004D7AD3A200000000000006C5
+t1299895202
+s1733
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m
+c000000004D7AD3A20000000000000D14
+t1299895202
+s3348
+i"TKImageCenter.h"
+i"NSArray+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.h
+c000000004D7AD3A20000000000000578
+t1299895202
+s1400
+i"ABTableViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m
+c000000004D7AD3A20000000000001104
+t1299895202
+s4356
+i"TKIndicatorCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.h
+c000000004D7AD3A20000000000000522
+t1299895202
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m
+c000000004D7AD3A20000000000000B21
+t1299895202
+s2849
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.h
+c000000004D7AD3A20000000000000527
+t1299895202
+s1319
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m
+c000000004D7AD3A20000000000000953
+t1299895202
+s2387
+i"TKLabelFieldCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.h
+c000000004D7AD3A2000000000000052C
+t1299895202
+s1324
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m
+c000000004D7AD3A20000000000000805
+t1299895202
+s2053
+i"TKLabelSwitchCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.h
+c000000004D7AD3A2000000000000054B
+t1299895202
+s1355
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m
+c000000004D7AD3A20000000000000CD0
+t1299895202
+s3280
+i"TKLabelTextFieldCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.h
+c000000004D7AD3A20000000000000535
+t1299895202
+s1333
+i"TKLabelCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m
+c000000004D7AD3A200000000000009C1
+t1299895202
+s2497
+i"TKLabelTextViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.h
+c000000004D7AD3A2000000000000066C
+t1299895202
+s1644
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m
+c000000004D7AD3A2000000000000156F
+t1299895202
+s5487
+i"TKLoadingView.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.h
+c000000004D7AD3A20000000000000608
+t1299895202
+s1544
+i<UIKit/UIKit.h>
+i"TKProgressBarView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m
+c000000004D7AD3A20000000000000A84
+t1299895202
+s2692
+i"TKProgressAlertView.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.h
+c000000004D7AD3A200000000000005FA
+t1299895202
+s1530
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m
+c000000004D7AD3A20000000000000EF3
+t1299895202
+s3827
+i"TKProgressBarView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.h
+c000000004D7AD3A200000000000001E7
+t1299895202
+s487
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m
+c000000004D7AD3A20000000000000B7E
+t1299895202
+s2942
+i"TKProgressCircleView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.h
+c000000004D7AD3A20000000000000566
+t1299895202
+s1382
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m
+c000000004D7AD3A20000000000000A09
+t1299895202
+s2569
+i"TKSwitchCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.h
+c000000004D7AD3A2000000000000079F
+t1299895202
+s1951
+i<UIKit/UIKit.h>
+i"TKViewController.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m
+c000000004D7AD3A200000000000011E5
+t1299895202
+s4581
+i"TKTableViewController.h"
+i"TKEmptyView.h"
+i"UIScrollview+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.h
+c000000004D7AD3A20000000000000530
+t1299895202
+s1328
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m
+c000000004D7AD3A2000000000000093F
+t1299895202
+s2367
+i"TKTextViewCell.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.h
+c000000004D7AD3A20000000000000567
+t1299895202
+s1383
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m
+c000000004D7AD3A20000000000000582
+t1299895202
+s1410
+i"TKViewController.h"
+i"TKBarButtonItem.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.h
+c000000004D7AD3A2000000000000055E
+t1299895202
+s1374
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m
+c000000004D7AD3A200000000000006D5
+t1299895202
+s1749
+i"TKWindow.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.h
+c000000004D7AD3A20000000000000DA1
+t1299895202
+s3489
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m
+c000000004D7AD3A20000000000001BB4
+t1299895202
+s7092
+i"TapDetectingView.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.h
+c000000004D7AD3A200000000000006F1
+t1299895202
+s1777
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m
+c000000004D7AD3A20000000000000AC6
+t1299895202
+s2758
+i"UIButton+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.h
+c000000004D7AD3A2000000000000062A
+t1299895202
+s1578
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m
+c000000004D7AD3A20000000000000E31
+t1299895202
+s3633
+i"UIImage+TKCategory.h"
+i"UIView+TKCategory.h"
+i"TKGlobal.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.h
+c000000004D7AD3A2000000000000051B
+t1299895202
+s1307
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m
+c000000004D7AD3A20000000000000588
+t1299895202
+s1416
+i"UIImageView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.h
+c000000004D7AD3A20000000000000510
+t1299895202
+s1296
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m
+c000000004D7AD3A20000000000000908
+t1299895202
+s2312
+i"UINavigationBar+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.h
+c000000004D7AD3A20000000000000556
+t1299895202
+s1366
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m
+c000000004D7AD3A2000000000000082E
+t1299895202
+s2094
+i"UINavigationController+TKCategory.h"
+i"TKViewController.h"
+i"TKBarButtonItem.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.h
+c000000004D7AD3A200000000000004FD
+t1299895202
+s1277
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m
+c000000004D7AD3A2000000000000053A
+t1299895202
+s1338
+i"UIScrollview+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.h
+c000000004D7AD3A20000000000000504
+t1299895202
+s1284
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m
+c000000004D7AD3A20000000000000781
+t1299895202
+s1921
+i"UIToolbar+TKCategory.h"
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.h
+c000000004D7AD3A20000000000000727
+t1299895202
+s1831
+i<UIKit/UIKit.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m
+c000000004D7AD3A200000000000014B3
+t1299895202
+s5299
+i"UIView+TKCategory.h"
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary_Prefix.pch
+c000000004D7AD3A20000000000000186
+t1299895202
+s390
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphoneos/libTapkuLibrary.a
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/ABTableViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSArray+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSDate+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSString+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKAlertCenter.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKAppDelegate.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKBarButtonItem.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKButtonCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayEventView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayTimelineView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthTableViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCoverflowCoverView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCoverflowView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKEmptyView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGlobal.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGraphController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGraphView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKImageCenter.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKIndicatorCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelFieldCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelSwitchCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelTextFieldCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelTextViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLoadingView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressAlertView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressBarView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressCircleView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKSwitchCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKTableViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKTextViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKWindow.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TapDetectingView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TapkuLibrary.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIButton+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIImage+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIImageView+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UINavigationBar+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UINavigationController+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIScrollview+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIToolbar+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIView+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/libTapkuLibrary.a
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/ABTableViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSArray+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSDate+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSString+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKAlertCenter.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKAppDelegate.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKBarButtonItem.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKButtonCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayEventView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayTimelineView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthTableViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCoverflowCoverView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCoverflowView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKEmptyView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGlobal.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGraphController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGraphView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKImageCenter.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKIndicatorCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelFieldCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelSwitchCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelTextFieldCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelTextViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLoadingView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressAlertView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressBarView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressCircleView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKSwitchCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKTableViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKTextViewCell.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKViewController.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKWindow.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TapDetectingView.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TapkuLibrary.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIButton+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIImage+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIImageView+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UINavigationBar+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UINavigationController+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIScrollview+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIToolbar+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIView+TKCategory.o
+t2
+s0
+
+N/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/libTapkuLibrary.a
+t2
+s0
+
+N/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fjwwnczpthvddueuszugonanpipa/TapkuLibrary_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fzvqqccmijkglbgqnerstgoaxmcj/TapkuLibrary_Prefix.pch.pth
+t2
+s0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/ABTableViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSArray+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSDate+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/NSString+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKAlertCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKBarButtonItem.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKButtonCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayEventView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayTimelineView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarDayViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCalendarMonthViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCoverflowCoverView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKCoverflowView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKEmptyView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGlobal.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGraphController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKGraphView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKImageCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKIndicatorCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelTextFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLabelTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKLoadingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressAlertView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressBarView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKProgressCircleView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TKWindow.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/TapDetectingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIButton+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIImage+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIImageView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UINavigationBar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UINavigationController+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIScrollview+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIToolbar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/UIView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m" normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/ABTableViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/ABTableViewCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSArray+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSArray+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSDate+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSDate+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/NSString+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/NSString+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKAlertCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAlertCenter.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKAppDelegate.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKBarButtonItem.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKBarButtonItem.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKButtonCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKButtonCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayEventView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayEventView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayTimelineView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayTimelineView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarDayViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarDayViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthTableViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCalendarMonthViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCalendarMonthViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCoverflowCoverView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowCoverView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKCoverflowView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKCoverflowView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKEmptyView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKEmptyView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGlobal.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGlobal.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGraphController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKGraphView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKGraphView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKImageCenter.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKImageCenter.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKIndicatorCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKIndicatorCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelFieldCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelSwitchCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelTextFieldCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextFieldCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLabelTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLabelTextViewCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKLoadingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKLoadingView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressAlertView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressAlertView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressBarView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressBarView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKProgressCircleView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKProgressCircleView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKSwitchCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKSwitchCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKTableViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTableViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKTextViewCell.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKTextViewCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKViewController.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TKWindow.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TKWindow.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/TapDetectingView.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/TapDetectingView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIButton+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIButton+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIImage+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImage+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIImageView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIImageView+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UINavigationBar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationBar+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UINavigationController+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UINavigationController+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIScrollview+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIScrollview+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIToolbar+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIToolbar+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/UIView+TKCategory.o "/Users/jtjoa/iphone dev/CoverFlow/src/TapkuLibrary/UIView+TKCategory.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCreateUniversalBinary "/Users/jtjoa/iphone dev/CoverFlow/src/build/Debug-iphoneos/libTapkuLibrary.a" normal "armv6 armv7"
+r0
+
+CLibtool "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv6/libTapkuLibrary.a" normal armv6
+r0
+
+CLibtool "/Users/jtjoa/iphone dev/CoverFlow/src/build/TapkuLibrary.build/Debug-iphoneos/TapkuLibrary.build/Objects-normal/armv7/libTapkuLibrary.a" normal armv7
+r0
+
+CProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fjwwnczpthvddueuszugonanpipa/TapkuLibrary_Prefix.pch.pth TapkuLibrary_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/vo/voAzLoUlGRihQQk4iCCVM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TapkuLibrary_Prefix-fzvqqccmijkglbgqnerstgoaxmcj/TapkuLibrary_Prefix.pch.pth TapkuLibrary_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
